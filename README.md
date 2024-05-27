@@ -21,3 +21,6 @@
 
     Plot nucleotide frequency at eccDNA junctions.
 
+### eccDNA_transcription.sh
+
+    Identify eccDNA trnascription events using data generated from PEAR-seq.
