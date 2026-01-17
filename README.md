@@ -9,7 +9,7 @@
    
     Identify human male germline eccDNA genome coordinates from sequencing data.
    
-### Hcustom_CricleMap_for_the_mouse_data.sh & realign_from_scratch.py
+### custom_CricleMap_for_the_mouse_data.sh & realign_from_scratch.py
 
     Identify mouse male germline eccDNA genome coordinates from sequencing data.
 
