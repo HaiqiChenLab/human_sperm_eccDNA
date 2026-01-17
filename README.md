@@ -9,6 +9,10 @@
    
     Identify human male germline eccDNA genome coordinates from sequencing data.
    
+### Hcustom_CricleMap_for_the_mouse_data.sh & realign_from_scratch.py
+
+    Identify mouse male germline eccDNA genome coordinates from sequencing data.
+
 ### Human_sperm_eccDNA_analysis.ipynb
 
     Extract sequence information at eccDNA junctions; generate a random dataset that mimics the length and chromosome distribution of the identified human germline eccDNA; Calculate the percentage of germline eccDNAs containing at least one gene exon.
